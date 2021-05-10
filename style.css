@@ -1,0 +1,15 @@
+
+
+.page-wrapper{
+    background-color: black;
+    width: 1325px;
+    height: 625px;
+}
+.page-top{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+}
+*{
+    margin: 0px;
+}
